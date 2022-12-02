@@ -4,6 +4,6 @@ This is an analysis of Crowdfunding projects and it consists of ETL project by u
 
 * All CSV files are saved in the csv folder.
 
-* All images are saved in the screenshot folder. 
+* All images are saved in the Screenshots folder. 
 
 
